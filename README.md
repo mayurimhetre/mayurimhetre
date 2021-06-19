@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurimhetre
 - 👀 I’m interested in Python development
-- 🌱 I’m currently learning machine learning and deep learning
+- 🌱 I’m currently learning machine learning , deep learning ,NLP ,Pytorch
 
 
 <!---
