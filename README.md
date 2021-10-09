@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mayurimhetre
-- 👀 I’m interested in Python development
 - 🌱 I’m currently working in Impetus Technologies as Analytics Engineer in Data Science Team
 - 🌱 I'm currently interested in AWS maching learning 
 
