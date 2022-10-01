@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurimhetre
-- 🌱 I’m currently working in Impetus Technologies as Analytics Engineer in Data Science Team
-- 🌱 I'm currently interested in AWS maching learning 
+- 🌱 I’m currently working in Larsen & Toubro Infotech as Data Scientist.
+- 🌱 Overall 6 years of experience in IT industry
 
 
 <!---
