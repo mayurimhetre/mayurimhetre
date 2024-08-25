@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurimhetre
-- 🌱 I’m currently working in Larsen & Toubro Infotech as Data Scientist.
-- 🌱 Overall 6 years of experience in IT industry
+- 🌱 I’m currently working in Ltimindtree as Specialist-Data Scientist.
+- 🌱 Overall 7 years of experience in IT field.
 
 
 <!---
