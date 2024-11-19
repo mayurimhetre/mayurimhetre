@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mayurimhetre
-- 🌱 I’m currently working in Ltimindtree as Specialist-Data Scientist.
-- 🌱 Overall 7 years of experience in IT field.
-
+Data scientist with 7 years of experience in Python, data analysis, and machine learning. Skilled in building data-driven solutions and
+proficient in tools such as Power BI, SQL, and Excel.
 
 <!---
 mayurimhetre/mayurimhetre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
