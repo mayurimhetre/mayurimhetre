@@ -24,27 +24,6 @@ I’m currently pursuing Master's in **Data Analytics and Decisison science** at
   - Time Series Forecasting
 - Developed multiple **proof-of-concepts (POCs)** that transitioned into product features
 - Strong experience working with **SQL databases** and data pipelines
-
----
-
-### 🤖 Machine Learning & Analytics Projects
-Some of the key projects I’ve worked on include:
-
-- **In-Vehicle Coupon Recommendation**
-  - Built a classification model to predict coupon acceptance based on driving scenarios and user context
-  - Worked with categorical-heavy data, missing values, and feature encoding
-
-- **Pedestrian & Passenger Analytics (Transportation Domain)**
-  - Analyzed high-frequency pedestrian movement data (4 FPS)
-  - Applied **clustering, KDE, and classification** to identify passenger categories
-  - Assigned train door IDs using KMeans
-  - Modeled train dwell time using regression with interaction effects
-
-- **Discrete Choice Modeling Project**
-  - Designed a **Discrete Choice Experiment (DCE)**
-  - Estimated a **Multinomial Logit (MNL)** model
-  - Focused on passenger door choice behavior in subway platforms
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -71,8 +50,8 @@ Some of the key projects I’ve worked on include:
 ---
 
 ## 🌱 What I’m Currently Working On
-- LLMs, RAG pipelines
-- ETL pipelines for real time data
+- LLMs, RAG pipelines, MCP servers
+- ETL pipelines for real time data in Databricks
 - Data analysis
 
 ---
