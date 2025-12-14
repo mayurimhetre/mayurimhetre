@@ -10,7 +10,7 @@ I’m currently pursuing Master's in **Data Analytics and Decisison science** at
 - 💼 Former **Data Scientist at LTIMindtree** with hands-on industry experience
 - 📊 Strong background in **SQL, data analysis, and machine learning**
 - 🌍 Currently based in **Germany** (originally from Navi Mumbai, India)
-- 🧠 Interested in **applied ML, behavioral analytics, transportation analytics, and decision modeling**
+- 🧠 Interested in **applied ML, data analytics, LLMs, AI applications**
 
 ---
 
