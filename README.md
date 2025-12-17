@@ -55,11 +55,3 @@ I’m currently pursuing Master's in **Data Analytics and Decisison science** at
 - Data analysis
 
 ---
-
-## 📫 Let’s Connect
-- 💼 LinkedIn: *https://www.linkedin.com/in/mayuri-mhetre-2a48aa143/*
-- 📧 Email: *mhetremayuri25@gmail.com*
-
----
-
-⭐ Feel free to explore my repositories to see my projects, notebooks, and experiments with real-world datasets.
