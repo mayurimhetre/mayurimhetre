@@ -1,6 +1,6 @@
 # Hi, I'm Mayuri 👋
 
-I’m currently pursuing Master's in **Data Analytics and Decisison science** at RWTH Aachen university, with 7 years of professional experience, specializing in **data analysis, machine learning, and AI**. I enjoy solving real-world problems using data and building end-to-end analytical and AI solutions.
+I’m currently pursuing Master's in **Data Analytics and Decisison science** at RWTH Aachen university, with 8+ years of professional experience, specializing in **data analysis, machine learning, and AI**. I enjoy solving real-world problems using data and building end-to-end analytical and AI solutions.
 
 ---
 
