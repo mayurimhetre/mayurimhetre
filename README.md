@@ -6,29 +6,20 @@ I’m currently pursuing Master's in **Data Analytics and Decisison science** at
 - 🔬 **Master Thesis @ Mercedes-Benz**: Designing and optimising an enterprise RAG system for diverse document types using hybrid retrieval (BM25 + dense vector search) and reranking as grounding techniques to reduce hallucination and improve response quality over baseline. 
 - 🤖 Agentic AI systems (LangChain, LangGraph, MCP servers)
 - 🇩🇪 Learning German (currently A1, actively improving)
-- 
----
-
-## 👩‍💻 About Me
-
-- 🎓 Master’s student in **Data Analytics & Decision Science** at **RWTH Business School, RWTH Aachen University**
-- 💼 Former **Data Scientist at LTIMindtree** with hands-on industry experience
-- 📊 Strong background in **SQL, data analysis, and machine learning**
-- 🌍 Currently based in **Germany** (originally from Navi Mumbai, India)
-- 🧠 Interested in **applied ML, data analytics, LLMs, AI applications**
 
 ---
 
-## 🔍 What I’ve Done So Far
+## 🔍 What I've Done So Far
 
 ### 📈 Professional Experience
-- Worked as a **Data Scientist** delivering analytics and ML solutions for business use cases
-- Built and evaluated models across:
-  - Regression
-  - Classification
-  - Time Series Forecasting
-- Developed multiple **proof-of-concepts (POCs)** that transitioned into product features
-- Strong experience working with **SQL databases** and data pipelines
+- Technical lead owning full feature lifecycle — from architecture decisions and feasibility analysis to sprint planning and product releases
+- Led team of 4 to build and deploy an **LLM-powered feature** for a decision intelligence product (fine-tuned GPT-4o)
+- Built **time-series forecasting pipelines** (ARIMA, SARIMA, Prophet) achieving 20% improvement in forecast accuracy
+- Productionised ML models into **Apache Airflow MLOps pipelines** with Python APIs for scalable inference
+- Designed SQL extraction pipelines across 20+ relational tables for a core banking platform serving **60M+ customers**
+- Built ML/DL prototypes (PyTorch, Scikit-learn) for **anomaly detection** on large-scale financial transaction data
+- Designed end-to-end **NLP pipeline** using transformer-based NER models, deployed via AWS REST APIs
+  
 ---
 
 ## 🛠️ Skills & Tools
